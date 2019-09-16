@@ -1,0 +1,28 @@
+#mainHome{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    text-align: center;
+    min-height: 75px;
+}
+
+#name{
+    align-items: center;
+    justify-content: center;
+    font-family: 'Bitter', serif;
+    color:rgb(128, 67, 93);
+    margin-bottom: -5%;
+    font-size: 7vh;
+}
+
+#headshot{
+    align-items: center;
+    justify-content: center;
+    height: 20vh;
+    margin: 5% 0 -5% 0 ;
+    border-radius: 100%;
+    box-shadow: 10px 5px 20px 4px #6D6A6A;
+}
+
+
